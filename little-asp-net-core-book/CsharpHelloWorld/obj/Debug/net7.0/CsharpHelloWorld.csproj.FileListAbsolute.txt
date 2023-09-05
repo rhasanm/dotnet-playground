@@ -1,0 +1,15 @@
+/Users/r_hasan/Workstation/c-sharp/little-asp-net-core-book/CsharpHelloWorld/bin/Debug/net7.0/CsharpHelloWorld
+/Users/r_hasan/Workstation/c-sharp/little-asp-net-core-book/CsharpHelloWorld/bin/Debug/net7.0/CsharpHelloWorld.deps.json
+/Users/r_hasan/Workstation/c-sharp/little-asp-net-core-book/CsharpHelloWorld/bin/Debug/net7.0/CsharpHelloWorld.runtimeconfig.json
+/Users/r_hasan/Workstation/c-sharp/little-asp-net-core-book/CsharpHelloWorld/bin/Debug/net7.0/CsharpHelloWorld.dll
+/Users/r_hasan/Workstation/c-sharp/little-asp-net-core-book/CsharpHelloWorld/bin/Debug/net7.0/CsharpHelloWorld.pdb
+/Users/r_hasan/Workstation/c-sharp/little-asp-net-core-book/CsharpHelloWorld/obj/Debug/net7.0/CsharpHelloWorld.csproj.AssemblyReference.cache
+/Users/r_hasan/Workstation/c-sharp/little-asp-net-core-book/CsharpHelloWorld/obj/Debug/net7.0/CsharpHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r_hasan/Workstation/c-sharp/little-asp-net-core-book/CsharpHelloWorld/obj/Debug/net7.0/CsharpHelloWorld.AssemblyInfoInputs.cache
+/Users/r_hasan/Workstation/c-sharp/little-asp-net-core-book/CsharpHelloWorld/obj/Debug/net7.0/CsharpHelloWorld.AssemblyInfo.cs
+/Users/r_hasan/Workstation/c-sharp/little-asp-net-core-book/CsharpHelloWorld/obj/Debug/net7.0/CsharpHelloWorld.csproj.CoreCompileInputs.cache
+/Users/r_hasan/Workstation/c-sharp/little-asp-net-core-book/CsharpHelloWorld/obj/Debug/net7.0/CsharpHelloWorld.dll
+/Users/r_hasan/Workstation/c-sharp/little-asp-net-core-book/CsharpHelloWorld/obj/Debug/net7.0/refint/CsharpHelloWorld.dll
+/Users/r_hasan/Workstation/c-sharp/little-asp-net-core-book/CsharpHelloWorld/obj/Debug/net7.0/CsharpHelloWorld.pdb
+/Users/r_hasan/Workstation/c-sharp/little-asp-net-core-book/CsharpHelloWorld/obj/Debug/net7.0/CsharpHelloWorld.genruntimeconfig.cache
+/Users/r_hasan/Workstation/c-sharp/little-asp-net-core-book/CsharpHelloWorld/obj/Debug/net7.0/ref/CsharpHelloWorld.dll
