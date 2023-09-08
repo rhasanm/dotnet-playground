@@ -1,0 +1,15 @@
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/abstract-factory-pattern-in-csharp/bin/Debug/net7.0/abstract-factory-pattern-in-csharp
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/abstract-factory-pattern-in-csharp/bin/Debug/net7.0/abstract-factory-pattern-in-csharp.deps.json
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/abstract-factory-pattern-in-csharp/bin/Debug/net7.0/abstract-factory-pattern-in-csharp.runtimeconfig.json
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/abstract-factory-pattern-in-csharp/bin/Debug/net7.0/abstract-factory-pattern-in-csharp.dll
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/abstract-factory-pattern-in-csharp/bin/Debug/net7.0/abstract-factory-pattern-in-csharp.pdb
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/abstract-factory-pattern-in-csharp/obj/Debug/net7.0/abstract-factory-pattern-in-csharp.csproj.AssemblyReference.cache
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/abstract-factory-pattern-in-csharp/obj/Debug/net7.0/abstract-factory-pattern-in-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/abstract-factory-pattern-in-csharp/obj/Debug/net7.0/abstract-factory-pattern-in-csharp.AssemblyInfoInputs.cache
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/abstract-factory-pattern-in-csharp/obj/Debug/net7.0/abstract-factory-pattern-in-csharp.AssemblyInfo.cs
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/abstract-factory-pattern-in-csharp/obj/Debug/net7.0/abstract-factory-pattern-in-csharp.csproj.CoreCompileInputs.cache
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/abstract-factory-pattern-in-csharp/obj/Debug/net7.0/abstract-factory-pattern-in-csharp.dll
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/abstract-factory-pattern-in-csharp/obj/Debug/net7.0/refint/abstract-factory-pattern-in-csharp.dll
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/abstract-factory-pattern-in-csharp/obj/Debug/net7.0/abstract-factory-pattern-in-csharp.pdb
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/abstract-factory-pattern-in-csharp/obj/Debug/net7.0/abstract-factory-pattern-in-csharp.genruntimeconfig.cache
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/abstract-factory-pattern-in-csharp/obj/Debug/net7.0/ref/abstract-factory-pattern-in-csharp.dll
