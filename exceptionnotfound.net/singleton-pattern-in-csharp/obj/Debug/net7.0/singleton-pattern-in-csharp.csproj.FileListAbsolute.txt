@@ -1,0 +1,15 @@
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/singleton-pattern-in-csharp/bin/Debug/net7.0/singleton-pattern-in-csharp
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/singleton-pattern-in-csharp/bin/Debug/net7.0/singleton-pattern-in-csharp.deps.json
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/singleton-pattern-in-csharp/bin/Debug/net7.0/singleton-pattern-in-csharp.runtimeconfig.json
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/singleton-pattern-in-csharp/bin/Debug/net7.0/singleton-pattern-in-csharp.dll
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/singleton-pattern-in-csharp/bin/Debug/net7.0/singleton-pattern-in-csharp.pdb
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/singleton-pattern-in-csharp/obj/Debug/net7.0/singleton-pattern-in-csharp.csproj.AssemblyReference.cache
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/singleton-pattern-in-csharp/obj/Debug/net7.0/singleton-pattern-in-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/singleton-pattern-in-csharp/obj/Debug/net7.0/singleton-pattern-in-csharp.AssemblyInfoInputs.cache
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/singleton-pattern-in-csharp/obj/Debug/net7.0/singleton-pattern-in-csharp.AssemblyInfo.cs
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/singleton-pattern-in-csharp/obj/Debug/net7.0/singleton-pattern-in-csharp.csproj.CoreCompileInputs.cache
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/singleton-pattern-in-csharp/obj/Debug/net7.0/singleton-pattern-in-csharp.dll
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/singleton-pattern-in-csharp/obj/Debug/net7.0/refint/singleton-pattern-in-csharp.dll
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/singleton-pattern-in-csharp/obj/Debug/net7.0/singleton-pattern-in-csharp.pdb
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/singleton-pattern-in-csharp/obj/Debug/net7.0/singleton-pattern-in-csharp.genruntimeconfig.cache
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/singleton-pattern-in-csharp/obj/Debug/net7.0/ref/singleton-pattern-in-csharp.dll
