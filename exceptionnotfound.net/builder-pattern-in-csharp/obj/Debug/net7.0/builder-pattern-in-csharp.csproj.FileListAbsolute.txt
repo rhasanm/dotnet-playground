@@ -1,0 +1,15 @@
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/builder-pattern-in-csharp/bin/Debug/net7.0/builder-pattern-in-csharp
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/builder-pattern-in-csharp/bin/Debug/net7.0/builder-pattern-in-csharp.deps.json
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/builder-pattern-in-csharp/bin/Debug/net7.0/builder-pattern-in-csharp.runtimeconfig.json
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/builder-pattern-in-csharp/bin/Debug/net7.0/builder-pattern-in-csharp.dll
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/builder-pattern-in-csharp/bin/Debug/net7.0/builder-pattern-in-csharp.pdb
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/builder-pattern-in-csharp/obj/Debug/net7.0/builder-pattern-in-csharp.csproj.AssemblyReference.cache
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/builder-pattern-in-csharp/obj/Debug/net7.0/builder-pattern-in-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/builder-pattern-in-csharp/obj/Debug/net7.0/builder-pattern-in-csharp.AssemblyInfoInputs.cache
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/builder-pattern-in-csharp/obj/Debug/net7.0/builder-pattern-in-csharp.AssemblyInfo.cs
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/builder-pattern-in-csharp/obj/Debug/net7.0/builder-pattern-in-csharp.csproj.CoreCompileInputs.cache
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/builder-pattern-in-csharp/obj/Debug/net7.0/builder-pattern-in-csharp.dll
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/builder-pattern-in-csharp/obj/Debug/net7.0/refint/builder-pattern-in-csharp.dll
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/builder-pattern-in-csharp/obj/Debug/net7.0/builder-pattern-in-csharp.pdb
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/builder-pattern-in-csharp/obj/Debug/net7.0/builder-pattern-in-csharp.genruntimeconfig.cache
+/Users/r_hasan/Workstation/c-sharp/exceptionnotfound.net/builder-pattern-in-csharp/obj/Debug/net7.0/ref/builder-pattern-in-csharp.dll
