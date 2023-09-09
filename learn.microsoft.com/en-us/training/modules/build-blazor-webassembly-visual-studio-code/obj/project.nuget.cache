@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ETXBZQ4Dkz+sDHyABfhmcAwzlYvQqk6z5rnSJwflS1CEjfszZq9nQUeLahzF5CuiIYGVR7g8JicQKPr92znR0g==",
+  "success": true,
+  "projectFilePath": "/Users/r_hasan/Workstation/c-sharp/learn.microsoft.com/en-us/training/modules/build-blazor-webassembly-visual-studio-code/build-blazor-webassembly-visual-studio-code.csproj",
+  "expectedPackageFiles": [
+    "/Users/r_hasan/.nuget/packages/microsoft.netcore.app.ref/6.0.20/microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "/Users/r_hasan/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.20/microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "/Users/r_hasan/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.20/microsoft.netcore.app.host.osx-arm64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
